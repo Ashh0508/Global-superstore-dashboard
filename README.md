@@ -89,4 +89,4 @@ The dataset contains:
 - Data Visualization Best Practices  
 
 ### Here's how the dashboard looks like : 
-![Global](
+![Global](https://github.com/Ashh0508/Global-superstore-dashboard/blob/main/snapshot.png)
